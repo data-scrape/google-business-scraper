@@ -118,5 +118,54 @@ This project is sponsored by [**CoreClaw**](https://www.coreclaw.com/?utm_source
 ⭐ If this project helped you, please give it a star!
 
 <!-- CROSS_LINKS_START -->
-<!-- Cross-links will be inserted here -->
+## 🔗 Related Scrapers
+
+### Indeed Job Scrapers
+
+- [Indeed Job Scraper](https://github.com/data-scrape/indeed-job-scraper)
+- [Scrape Indeed Job Postings](https://github.com/data-scrape/scrape-indeed-job-postings)
+- [Apify Indeed Scraper](https://github.com/data-scrape/apify-indeed-scraper)
+
+### Zillow Scrapers
+
+- [Easy Scrape Zillow Agents Free](https://github.com/data-scrape/easy-scrape-zillow-agents-free)
+- [Zillow Data Scraper](https://github.com/data-scrape/zillow-data-scraper)
+- [Zillow Scraper API](https://github.com/data-scrape/zillow-scraper-api)
+- [Apify Zillow Scraper](https://github.com/data-scrape/apify-zillow-scraper)
+
+### Reddit Scrapers
+
+- [Best Apollo Scraper Reddit](https://github.com/data-scrape/best-apollo-scraper-reddit)
+- [Apify Reddit Scraper](https://github.com/data-scrape/apify-reddit-scraper)
+
+### Google Scrapers
+
+- [Google Shopping Scraper](https://github.com/data-scrape/google-shopping-scraper)
+- [Google Reviews Scraper](https://github.com/data-scrape/google-reviews-scraper)
+- [Google Place ID API](https://github.com/data-scrape/google-place-id-api)
+
+### Social Media Scrapers
+
+- [X (Twitter) Scraper](https://github.com/data-scrape/x-scraper)
+- [Threads Scraper](https://github.com/data-scrape/threads-scraper)
+- [Pinterest Scraper](https://github.com/data-scrape/pinterest-scraper)
+- [Discord Scraper](https://github.com/data-scrape/discord-scraper)
+- [Telegram Scraper](https://github.com/data-scrape/telegram-scraper)
+- [Twitch Scraper](https://github.com/data-scrape/twitch-scraper)
+
+### Reviews & Local Scrapers
+
+- [Scrape Yelp Reviews](https://github.com/data-scrape/scrape-yelp-reviews)
+- [Yellow Pages Scraper](https://github.com/data-scrape/yellow-pages-scraper)
+- [Glassdoor Scraper](https://github.com/data-scrape/glassdoor-scraper)
+
+### Proxy & API Alternatives
+
+- [Bright Data Alternative](https://github.com/data-scrape/bright-data-alternative)
+- [ZenRows Alternative](https://github.com/data-scrape/zenrows-alternative)
+- [ScrapingBee Alternative](https://github.com/data-scrape/scrapingbee-alternative)
+- [ScraperAPI Alternative](https://github.com/data-scrape/scraperapi-alternative)
+- [SerpAPI Alternative](https://github.com/data-scrape/serpapi-alternative)
+- [Oxylabs Alternative](https://github.com/data-scrape/oxylabs-alternative)
+
 <!-- CROSS_LINKS_END -->
