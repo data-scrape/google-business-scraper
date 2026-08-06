@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Joe's Pizza",
+    "address": "123 Main St, New York, NY",
+    "phone": "(212) 555-1234",
+    "rating": 4.7,
+    "reviews": 892,
+    "category": "Restaurant"
+  }
+]
