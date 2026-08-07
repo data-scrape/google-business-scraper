@@ -137,30 +137,14 @@ This project is sponsored by [**CoreClaw**](https://www.coreclaw.com/?utm_source
 
 Explore more data extraction tools:
 
+### Content Platform Scrapers
+
+- [medium-scraper](https://github.com/data-scrape/medium-scraper) — Scrape Medium articles, authors, and publication data
+- [substack-scraper](https://github.com/data-scrape/substack-scraper) — Scrape Substack newsletters, posts, and subscriber data
+
 ### Facebook Scrapers
 
 - [facebook-group-scraper](https://github.com/data-scrape/facebook-group-scraper) — Scrape Facebook groups, members, and group posts data
-
-### Google Scrapers
-
-- [apify-google-maps-scraper](https://github.com/data-scrape/apify-google-maps-scraper) — Compare Apify Google Maps Scraper with modern alternatives. Features, pricing, APIs, Google Maps business data, reviews, Place IDs, and production-ready scraping solutions.
-- [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) — The best Google Maps scraper for extracting business listings, reviews, phone numbers, websites, emails, and local business data via production-ready APIs.
-- [best-google-search-scraper](https://github.com/data-scrape/best-google-search-scraper) — The best Google Search scraper for extracting organic results, ads, featured snippets, related searches, knowledge panels, and SERP data through ready-to-use APIs.
-- [google-map-scraper-api-](https://github.com/data-scrape/google-map-scraper-api-) — Production-ready Google Maps Scraper API for extracting business listings, reviews, place IDs, phone numbers, websites, emails, and locations. REST API, JSON, CSV, no proxies required.
-- [google-maps-data-scraper](https://github.com/data-scrape/google-maps-data-scraper) — Extract Google Maps business data, reviews, place IDs, emails, phone numbers, websites, ratings, and locations with production-ready APIs. No proxies or browser automation.
-- [google-place-id-api](https://github.com/data-scrape/google-place-id-api) — Get Google Place IDs without API key - free alternative
-- [google-reviews-scraper](https://github.com/data-scrape/google-reviews-scraper) — Scrape google-reviews-scraper data
-- [google-shopping-scraper](https://github.com/data-scrape/google-shopping-scraper) — Scrape Google Shopping results - prices, products, sellers
-- [outscraper-google-maps-scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) — Compare Outscraper Google Maps Scraper with modern alternatives. Features, pricing, APIs, reviews, and production-ready Google Maps scraping solutions.
-- [scrape-google-maps](https://github.com/data-scrape/scrape-google-maps) — Learn how to scrape Google Maps business listings, reviews, emails, phone numbers, and place IDs with production-ready APIs. No proxies. No browser automation.
-
-### Job Scrapers
-
-- [apify-indeed-scraper](https://github.com/data-scrape/apify-indeed-scraper) — Scrape apify-indeed-scraper data
-- [best-indeed-scraper](https://github.com/data-scrape/best-indeed-scraper) — The best Indeed scraper for extracting job listings, companies, salaries, search results, and public recruitment data through ready-to-use APIs.
-- [glassdoor-scraper](https://github.com/data-scrape/glassdoor-scraper) — Scrape Glassdoor job listings, salaries, company reviews
-- [indeed-job-scraper](https://github.com/data-scrape/indeed-job-scraper) — Free Indeed job scraper - extract job postings, salaries, company info
-- [scrape-indeed-job-postings](https://github.com/data-scrape/scrape-indeed-job-postings) — Python tool to scrape Indeed job postings with full details
 
 ### LinkedIn Scrapers
 
@@ -178,9 +162,12 @@ Explore more data extraction tools:
 - [amazon-product-scraper](https://github.com/data-scrape/amazon-product-scraper) — Amazon product scraper - extract product details, images, and specs
 - [amazon-review-scraper](https://github.com/data-scrape/amazon-review-scraper) — Amazon review scraper - extract product reviews and ratings in bulk
 - [amazon-scraper-api](https://github.com/data-scrape/amazon-scraper-api) — Amazon scraper API - REST API for Amazon data extraction
+- [apify-google-maps-scraper](https://github.com/data-scrape/apify-google-maps-scraper) — Compare Apify Google Maps Scraper with modern alternatives. Features, pricing, APIs, Google Maps business data, reviews, Place IDs, and production-ready scraping solutions.
+- [apify-indeed-scraper](https://github.com/data-scrape/apify-indeed-scraper) — Apify-style Indeed scraper alternative - free & open source
 - [apify-instagram-scraper](https://github.com/data-scrape/apify-instagram-scraper) — Compare Apify Instagram Scraper with modern alternatives. Compare APIs, features, pricing, Instagram profile scraping, Reels, comments, hashtags, and production-ready data extraction.
 - [apify-reddit-scraper](https://github.com/data-scrape/apify-reddit-scraper) — Apify-style Reddit scraper alternative - free & open source
 - [apify-tiktok-scraper](https://github.com/data-scrape/apify-tiktok-scraper) — Apify TikTok scraper alternative - free Python TikTok scraper
+- [apify-zillow-scraper](https://github.com/data-scrape/apify-zillow-scraper) — Apify-style Zillow scraper alternative - free & open source
 - [awesome-apify-alternatives](https://github.com/data-scrape/awesome-apify-alternatives) — A curated list of the best Apify alternatives for web scraping, browser automation, AI agents, and business data extraction.
 - [awesome-lead-generation](https://github.com/data-scrape/awesome-lead-generation) — A curated list of the best local lead generation tools, Google Maps scrapers, business data APIs, SEO resources, automation tools, and communities.
 - [best-amazon-scraper](https://github.com/data-scrape/best-amazon-scraper) — The best Amazon scraper for extracting products, prices, reviews, sellers, search results, categories, and public e-commerce data through ready-to-use APIs.
@@ -188,14 +175,20 @@ Explore more data extraction tools:
 - [best-apollo-scraper-reddit](https://github.com/data-scrape/best-apollo-scraper-reddit) — Reddit community recommended Apollo scraper alternative
 - [best-ebay-scraper](https://github.com/data-scrape/best-ebay-scraper) — The best eBay scraper for extracting products, prices, sellers, reviews, sold listings, search results, and marketplace data through ready-to-use APIs.
 - [best-facebook-scraper](https://github.com/data-scrape/best-facebook-scraper) — The best Facebook scraper for extracting public pages, posts, comments, groups, profiles, and business data through production-ready APIs.
+- [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) — The best Google Maps scraper for extracting business listings, reviews, phone numbers, websites, emails, and local business data via production-ready APIs.
+- [best-google-search-scraper](https://github.com/data-scrape/best-google-search-scraper) — The best Google Search scraper for extracting organic results, ads, featured snippets, related searches, knowledge panels, and SERP data through ready-to-use APIs.
+- [best-indeed-scraper](https://github.com/data-scrape/best-indeed-scraper) — The best Indeed scraper for extracting job listings, companies, salaries, search results, and public recruitment data through ready-to-use APIs.
 - [best-instagram-scraper](https://github.com/data-scrape/best-instagram-scraper) — The best Instagram scraper for extracting profiles, posts, reels, comments, hashtags, followers, and public business data through production-ready APIs.
 - [best-linkedin-scraper](https://github.com/data-scrape/best-linkedin-scraper) — The best LinkedIn scraper for extracting profiles, companies, contact information, jobs, posts, and business data through production-ready APIs.
 - [best-reddit-scraper](https://github.com/data-scrape/best-reddit-scraper) — The best Reddit scraper for extracting posts, comments, subreddits, users, search results, and public community data through ready-to-use APIs.
 - [best-tiktok-scraper](https://github.com/data-scrape/best-tiktok-scraper) — The best TikTok scraper for extracting profiles, videos, comments, hashtags, search results, and public creator data through ready-to-use APIs.
 - [best-walmart-scraper](https://github.com/data-scrape/best-walmart-scraper) — The best Walmart scraper for extracting products, prices, reviews, sellers, inventory, search results, and marketplace data through ready-to-use APIs.
 - [best-youtube-scraper](https://github.com/data-scrape/best-youtube-scraper) — The best YouTube scraper for extracting channels, videos, comments, playlists, search results, and public creator business information through ready-to-use APIs.
+- [best-zillow-scraper](https://github.com/data-scrape/best-zillow-scraper) — The best Zillow scraper for extracting property listings, prices, rental listings, agents, estimates, and real estate data through ready-to-use APIs.
 - [blog](https://github.com/data-scrape/blog) — CoreClaw blog - web scraping infrastructure insights. Served at data-scrape.github.io/blog/
+- [bright-data-alternative](https://github.com/data-scrape/bright-data-alternative) — Free open-source Bright Data alternative - web scraping proxy
 - [discord-scraper](https://github.com/data-scrape/discord-scraper) — Scrape Discord messages, channels, members without API
+- [easy-scrape-zillow-agents-free](https://github.com/data-scrape/easy-scrape-zillow-agents-free) — Free tool to scrape Zillow real estate agents listings
 - [ebay-price-scraper](https://github.com/data-scrape/ebay-price-scraper) — eBay price scraper - track prices and extract sold item history
 - [ebay-web-scraper](https://github.com/data-scrape/ebay-web-scraper) — eBay web scraper - extract product listings, prices, seller data
 - [facebook-marketplace-scraper](https://github.com/data-scrape/facebook-marketplace-scraper) — Facebook Marketplace scraper - extract listings, prices, seller data
@@ -203,6 +196,13 @@ Explore more data extraction tools:
 - [facebook-post-scraper](https://github.com/data-scrape/facebook-post-scraper) — Facebook post scraper - extract post data, reactions, comments
 - [facebook-profile-scraper](https://github.com/data-scrape/facebook-profile-scraper) — Facebook profile scraper - extract profiles, friends, photos, posts
 - [facebook-scrape-website](https://github.com/data-scrape/facebook-scrape-website) — Facebook scrape website - full Facebook data extraction toolkit
+- [glassdoor-scraper](https://github.com/data-scrape/glassdoor-scraper) — Scrape Glassdoor job listings, salaries, company reviews
+- [google-map-scraper-api-](https://github.com/data-scrape/google-map-scraper-api-) — Production-ready Google Maps Scraper API for extracting business listings, reviews, place IDs, phone numbers, websites, emails, and locations. REST API, JSON, CSV, no proxies required.
+- [google-maps-data-scraper](https://github.com/data-scrape/google-maps-data-scraper) — Extract Google Maps business data, reviews, place IDs, emails, phone numbers, websites, ratings, and locations with production-ready APIs. No proxies or browser automation.
+- [google-place-id-api](https://github.com/data-scrape/google-place-id-api) — Get Google Place IDs without API key - free alternative
+- [google-reviews-scraper](https://github.com/data-scrape/google-reviews-scraper) — Scrape Google Maps reviews - ratings, text, author, dates
+- [google-shopping-scraper](https://github.com/data-scrape/google-shopping-scraper) — Scrape Google Shopping results - prices, products, sellers
+- [indeed-job-scraper](https://github.com/data-scrape/indeed-job-scraper) — Free Indeed job scraper - extract job postings, salaries, company info
 - [instagram-account-scraper](https://github.com/data-scrape/instagram-account-scraper) — A powerful Python-based Instagram account scraper that extracts profiles, posts, reels, stories, hashtags, followers, and emails. Supports batch scraping, rate limiting, proxy rotation, and exports to JSON/CSV/Excel.
 - [instagram-comment-scraper](https://github.com/data-scrape/instagram-comment-scraper) — Instagram comment scraper - extract comments from posts and reels
 - [instagram-email-scraper](https://github.com/data-scrape/instagram-email-scraper) — Instagram email scraper - extract emails from Instagram bios and profiles
@@ -213,12 +213,20 @@ Explore more data extraction tools:
 - [linkedin-post-scraper](https://github.com/data-scrape/linkedin-post-scraper) — LinkedIn post scraper - extract posts, likes, comments, analytics
 - [linkedin-profile-data-scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) — LinkedIn profile data scraper - extract profiles, experience, skills, education
 - [linkedin-scraper-api](https://github.com/data-scrape/linkedin-scraper-api) — LinkedIn scraper API - REST API for LinkedIn data extraction
+- [outscraper-google-maps-scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) — Compare Outscraper Google Maps Scraper with modern alternatives. Features, pricing, APIs, reviews, and production-ready Google Maps scraping solutions.
+- [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) — Free open-source Oxylabs alternative - residential proxy scraper
 - [pinterest-scraper](https://github.com/data-scrape/pinterest-scraper) — Scrape Pinterest pins, boards, images without API
 - [scrap-gold-ebay](https://github.com/data-scrape/scrap-gold-ebay) — Scrap gold eBay - extract gold and precious metal listings from eBay
+- [scrape-google-maps](https://github.com/data-scrape/scrape-google-maps) — Learn how to scrape Google Maps business listings, reviews, emails, phone numbers, and place IDs with production-ready APIs. No proxies. No browser automation.
+- [scrape-indeed-job-postings](https://github.com/data-scrape/scrape-indeed-job-postings) — Python tool to scrape Indeed job postings with full details
 - [scrape-instagram-followers](https://github.com/data-scrape/scrape-instagram-followers) — Learn how to scrape Instagram followers, public profiles, follower counts, bios, business categories, and creator data using ready-to-use APIs.
 - [scrape-instagram-photos](https://github.com/data-scrape/scrape-instagram-photos) — Scrape Instagram photos - download photos from any profile in bulk
+- [scrape-yelp-reviews](https://github.com/data-scrape/scrape-yelp-reviews) — Free Yelp reviews scraper - extract ratings, text, dates
 - [scrape-youtube-comments](https://github.com/data-scrape/scrape-youtube-comments) — Scrape YouTube comments - extract comments from any video
 - [scrape-youtube-search-results](https://github.com/data-scrape/scrape-youtube-search-results) — Scrape YouTube search results - extract videos, channels, playlists
+- [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) — Free open-source ScraperAPI alternative - rotating proxy scraper
+- [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) — Free open-source ScrapingBee alternative - headless browser scraper
+- [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) — Free open-source SerpAPI alternative - SERP scraping without API key
 - [telegram-scraper](https://github.com/data-scrape/telegram-scraper) — Scrape Telegram channels, messages, groups without API
 - [threads-scraper](https://github.com/data-scrape/threads-scraper) — Scrape Meta Threads posts, profiles, replies without API
 - [tiktok-comment-scraper](https://github.com/data-scrape/tiktok-comment-scraper) — TikTok comment scraper - extract comments from TikTok videos
@@ -228,29 +236,16 @@ Explore more data extraction tools:
 - [tiktok-video-scraper](https://github.com/data-scrape/tiktok-video-scraper) — TikTok video scraper - extract video data, hashtags, trending content
 - [twitch-scraper](https://github.com/data-scrape/twitch-scraper) — Scrape Twitch channels, streams, chat without API
 - [x-scraper](https://github.com/data-scrape/x-scraper) — Scrape X/Twitter posts, profiles, followers without API
+- [yellow-pages-scraper](https://github.com/data-scrape/yellow-pages-scraper) — Scrape Yellow Pages business listings - phone, address, reviews
 - [youtube-video-scraper-api](https://github.com/data-scrape/youtube-video-scraper-api) — YouTube video scraper API - REST API for video data extraction
-
-### Proxy & API Alternatives
-
-- [bright-data-alternative](https://github.com/data-scrape/bright-data-alternative) — Free open-source Bright Data alternative - web scraping proxy
-- [oxylabs-alternative](https://github.com/data-scrape/oxylabs-alternative) — Free open-source Oxylabs alternative - residential proxy scraper
-- [scraperapi-alternative](https://github.com/data-scrape/scraperapi-alternative) — Free open-source ScraperAPI alternative - rotating proxy scraper
-- [scrapingbee-alternative](https://github.com/data-scrape/scrapingbee-alternative) — Free open-source ScrapingBee alternative - headless browser scraper
-- [serpapi-alternative](https://github.com/data-scrape/serpapi-alternative) — Free open-source SerpAPI alternative - SERP scraping without API key
 - [zenrows-alternative](https://github.com/data-scrape/zenrows-alternative) — Free open-source ZenRows alternative - anti-bot bypass scraper
-
-### Real Estate Scrapers
-
-- [apify-zillow-scraper](https://github.com/data-scrape/apify-zillow-scraper) — Apify-style Zillow scraper alternative - free & open source
-- [best-zillow-scraper](https://github.com/data-scrape/best-zillow-scraper) — The best Zillow scraper for extracting property listings, prices, rental listings, agents, estimates, and real estate data through ready-to-use APIs.
-- [easy-scrape-zillow-agents-free](https://github.com/data-scrape/easy-scrape-zillow-agents-free) — Free tool to scrape Zillow real estate agents listings
 - [zillow-data-scraper](https://github.com/data-scrape/zillow-data-scraper) — Scrape Zillow property data - prices, addresses, Zestimate
 - [zillow-scraper-api](https://github.com/data-scrape/zillow-scraper-api) — Zillow scraper API - structured JSON output for property data
 
-### Reviews & Local Scrapers
+### Reddit Scrapers
 
-- [scrape-yelp-reviews](https://github.com/data-scrape/scrape-yelp-reviews) — Free Yelp reviews scraper - extract ratings, text, dates
-- [yellow-pages-scraper](https://github.com/data-scrape/yellow-pages-scraper) — Scrape yellow-pages-scraper data
+- [reddit-comment-scraper](https://github.com/data-scrape/reddit-comment-scraper) — Scrape Reddit comments, replies, and user discussions in bulk
+- [reddit-post-scraper](https://github.com/data-scrape/reddit-post-scraper) — Scrape Reddit posts, subreddits, and karma data with filters
 
 ### Social Media Scrapers
 
@@ -258,6 +253,7 @@ Explore more data extraction tools:
 - [slack-scraper](https://github.com/data-scrape/slack-scraper) — Scrape Slack channels, messages, and workspace data
 - [snapchat-scraper](https://github.com/data-scrape/snapchat-scraper) — Scrape Snapchat stories, profiles, and public content data
 - [whatsapp-scraper](https://github.com/data-scrape/whatsapp-scraper) — Scrape WhatsApp groups, contacts, and message data programmatically
+- [x-tweet-scraper](https://github.com/data-scrape/x-tweet-scraper) — Scrape X (Twitter) tweets, threads, and timeline data in bulk
 
 ### YouTube Scrapers
 
